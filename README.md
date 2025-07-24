@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hello! I'm Lucas
 
-<!--
-**LucasMorim/LucasMorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Backend-focused Developer | 🇵🇹 Based in Porto, Portugal  
+💻 Passionate about building useful applications, APIs, and smart solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### 💬 Languages
+- **Main Experience:** C#, PHP, JavaScript
+- **Also used:** Python, Dart
+- **Web Basics:** HTML, CSS
+
+### 🗄️ Databases
+- MySQL · Microsoft SQL Server · PostgreSQL  
+- Solid understanding of **SQL queries**, relationships, and optimization
+
+### 🚀 Frameworks & Tools
+- **Laravel** · **Node.js** · **Flutter**
+- Basic knowledge of **Docker**
+- Experience working with **AWS** services
+
+---
+
+## 👨‍💻 About Me
+
+- 👨‍🎓 I’ve completed internships where I worked on real backend systems and dashboards  
+- 🧠 Always learning – currently exploring **Docker**, **API security**, and **software architecture**  
+- 🤝 Open to collaborations and internship opportunities in backend development  
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/lucas-fernando-garcia-morim)  
+- 📧 lucasmorim05@gmail.com   
