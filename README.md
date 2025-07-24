@@ -34,4 +34,4 @@
 ## 📫 Connect with Me
 
 - [LinkedIn](www.linkedin.com/in/lucas-fernando-garcia-morim)  
-- 📧 lucasmorim05@gmail.com   
+- lucasmorim05@gmail.com   
