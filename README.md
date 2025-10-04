@@ -37,5 +37,3 @@
 - lucasmorim05@gmail.com   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasmorim&show_icons=true&locale=en&layout=compact" alt="lucasmorim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasmorim&show_icons=true&locale=en" alt="lucasmorim" /></p>
