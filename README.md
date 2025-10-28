@@ -17,7 +17,7 @@
 - Solid understanding of **SQL queries**, relationships, and optimization
 
 ### 🚀 Frameworks & Tools
-- **Laravel** · **Node.js** · **Flutter**
+- **Laravel** · **Node.js** · **Flutter** . **Angular**
 - Basic knowledge of **Docker**
 - Experience working with **AWS** services
 
