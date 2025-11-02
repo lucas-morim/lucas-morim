@@ -36,8 +36,6 @@
 - [LinkedIn](wwww.linkedin.com/in/lucfgm)  
 - lucasmorim05@gmail.com   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas-morim&show_icons=true&locale=en&layout=compact" alt="lucas-morim" /></p>
-
-<p align="center">
+<p>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-morim&layout=compact&theme=dark&hide_border=true&langs_count=6" />
 </p>
