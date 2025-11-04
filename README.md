@@ -8,8 +8,8 @@
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
-- **Main Experience:** C#, PHP, JavaScript
-- **Also used:** Python, Dart
+- **Main Experience:** C#, Python
+- **Also used:** PHP, JavaScript, Dart
 - **Web Basics:** HTML, CSS
 
 ### 🗄️ Databases
@@ -18,7 +18,6 @@
 
 ### 🚀 Frameworks & Tools
 - **Laravel** · **Node.js** · **Flutter** . **Angular**
-- Basic knowledge of **Docker**
 - Experience working with **AWS** services
 
 ---
