@@ -25,7 +25,7 @@
 ## 👨‍💻 About Me
 
 - 👨‍🎓 I’ve completed internships where I worked on real backend systems and dashboards  
-- 🧠 Always learning – currently exploring **Docker**, **API security**, and **software architecture**  
+- 🧠 Always learning – currently exploring **API structures** and **software architecture**  
 - 🤝 Open to collaborations and internship opportunities in backend development  
 
 ---
