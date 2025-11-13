@@ -26,7 +26,7 @@
 
 - 👨‍🎓 I’ve completed internships where I worked on real backend systems and dashboards  
 - 🧠 Always learning – currently exploring **API structures** and **software architecture**  
-- 🤝 Open to collaborations and internship opportunities in backend development  
+- 🤝 Open to collaborations and internship opportunities in fullstack development  
 
 ---
 
