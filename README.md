@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Lucas
 
-🎯 Backend-focused Developer | 🇵🇹 Based in Porto, Portugal  
+🎯 Full-stack Developer | 🇵🇹 Based in Porto, Portugal  
 💻 Passionate about building useful applications, APIs, and smart solutions
 
 ---
