@@ -1,36 +1,62 @@
 # 👋 Hello! I'm Lucas
 
-🎯 Full-stack Developer | 🇵🇹 Based in Porto, Portugal  
-💻 Passionate about building useful applications, APIs, and smart solutions
+🎯 **.NET / C# Developer | Backend & Full-Stack**  
+🇵🇹 Based in Porto, Portugal  
+
+💻 Passionate about building **scalable APIs, backend systems, and full web applications**, with a strong focus on backend development using C# and modern technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
-- **Main Experience:** C#, Python
-- **Also used:** PHP, JavaScript, Dart
+- **Primary:** C# (.NET)
+- **Backend Experience:** Python, PHP
+- **Frontend:** JavaScript
+- **Mobile:** Dart
 - **Web Basics:** HTML, CSS
 
-### 🗄️ Databases
-- MySQL · Microsoft SQL Server · PostgreSQL  
-- Solid understanding of **SQL queries**, relationships, and optimization
+### 🚀 Frameworks & Technologies
+- **.NET / C#**
+- **Angular**
+- **Laravel**
+- **Node.js**
+- **Flutter**
 
-### 🚀 Frameworks & Tools
-- **Laravel** · **Node.js** · **Flutter** . **Angular**
-- Experience working with **AWS** services
+Experience working with:
+
+- REST APIs  
+- Microservices architecture  
+- Agile development workflows  
+- Git version control  
+- Cloud services (AWS)
+
+### 🗄️ Databases
+- Microsoft SQL Server  
+- MySQL  
+- PostgreSQL
+- MongoDB
+
+Strong experience with:
+
+- SQL queries  
+- Database modeling  
+- Query optimization
 
 ---
 
 ## 👨‍💻 About Me
 
-- 👨‍🎓 I’ve completed internships where I worked on real backend systems and dashboards  
-- 🧠 Always learning – currently exploring **API structures** and **software architecture**  
-- 🤝 Open to collaborations and internship opportunities in fullstack development  
+- 💻 Backend-focused developer with strong experience building APIs and full web applications  
+- 🧠 Interested in **software architecture, backend systems, and scalable solutions**  
+- 🎓 Experience working on real-world development projects and collaborating with multidisciplinary teams  
+- 👨‍🏫 Experience teaching **Algorithms and Data Structures with C#**, focusing on practical learning and problem solving  
+- 🤝 Open to collaborations and opportunities in **.NET / Backend / Full-Stack development**
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](wwww.linkedin.com/in/lucfgm)  
-- lucasmorim05@gmail.com   
+- LinkedIn: https://www.linkedin.com/in/lucfgm  
+- Email: lucasmorim05@gmail.com  
+- GitHub: https://github.com/lucas-morim
