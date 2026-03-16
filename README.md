@@ -59,4 +59,3 @@ Strong experience with:
 
 - LinkedIn: https://www.linkedin.com/in/lucfgm  
 - Email: lucasmorim05@gmail.com  
-- GitHub: https://github.com/lucas-morim
